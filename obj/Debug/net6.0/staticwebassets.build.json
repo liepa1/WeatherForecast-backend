@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tsj9budwQ61f3vAp5R/pMdvAcTUDLW2Ug3KIXr/oxi8=",
+  "Source": "weather-forecast-backend",
+  "BasePath": "_content/weather-forecast-backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
